@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\bin\Debug\proje_2.exe.config
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\bin\Debug\proje_2.exe
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\bin\Debug\proje_2.pdb
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.exe
+C:\Users\aybala\Desktop\udemy projeler\proje_2\proje_2\obj\Debug\proje_2.pdb

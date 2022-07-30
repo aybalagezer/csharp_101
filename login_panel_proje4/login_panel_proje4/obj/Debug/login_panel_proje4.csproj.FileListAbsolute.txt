@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\bin\Debug\login_panel_proje4.exe.config
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\bin\Debug\login_panel_proje4.exe
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\bin\Debug\login_panel_proje4.pdb
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.exe
+C:\Users\aybala\Desktop\udemy projeler\login_panel_proje4\login_panel_proje4\obj\Debug\login_panel_proje4.pdb

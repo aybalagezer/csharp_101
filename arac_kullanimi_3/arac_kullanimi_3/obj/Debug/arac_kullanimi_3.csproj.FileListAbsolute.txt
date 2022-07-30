@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\bin\Debug\arac_kullanimi_3.exe.config
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\bin\Debug\arac_kullanimi_3.exe
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\bin\Debug\arac_kullanimi_3.pdb
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.exe
+C:\Users\aybala\Desktop\udemy projeler\arac_kullanimi_3\arac_kullanimi_3\obj\Debug\arac_kullanimi_3.pdb

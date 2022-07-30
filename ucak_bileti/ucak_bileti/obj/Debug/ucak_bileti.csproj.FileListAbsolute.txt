@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\bin\Debug\ucak_bileti.exe.config
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\bin\Debug\ucak_bileti.exe
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\bin\Debug\ucak_bileti.pdb
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.exe
+C:\Users\aybala\Desktop\udemy projeler\ucak_bileti\ucak_bileti\obj\Debug\ucak_bileti.pdb
