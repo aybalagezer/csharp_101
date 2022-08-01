@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\bin\Debug\bufe _satis.exe.config
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\bin\Debug\bufe _satis.exe
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\bin\Debug\bufe _satis.pdb
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe _satis.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe__satis.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe__satis.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe _satis.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe _satis.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe _satis.exe
+C:\Users\aybala\Desktop\udemy projeler\bufe _satis\bufe _satis\obj\Debug\bufe _satis.pdb
