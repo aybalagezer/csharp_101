@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\bin\Debug\ogrenci_nothesaplama.exe.config
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\bin\Debug\ogrenci_nothesaplama.exe
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\bin\Debug\ogrenci_nothesaplama.pdb
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.exe
+C:\Users\aybala\Desktop\udemy projeler\ogrenci_nothesaplama\ogrenci_nothesaplama\obj\Debug\ogrenci_nothesaplama.pdb
