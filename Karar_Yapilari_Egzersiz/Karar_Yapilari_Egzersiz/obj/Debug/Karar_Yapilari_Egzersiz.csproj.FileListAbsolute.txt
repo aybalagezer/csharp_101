@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe.config
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.pdb
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\aybala\Desktop\udemy projeler\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.pdb

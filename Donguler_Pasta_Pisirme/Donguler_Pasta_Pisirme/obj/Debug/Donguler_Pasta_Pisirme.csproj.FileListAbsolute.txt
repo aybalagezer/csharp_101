@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\bin\Debug\Donguler_Pasta_Pisirme.exe.config
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\bin\Debug\Donguler_Pasta_Pisirme.exe
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\bin\Debug\Donguler_Pasta_Pisirme.pdb
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.exe
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Pasta_Pisirme\Donguler_Pasta_Pisirme\obj\Debug\Donguler_Pasta_Pisirme.pdb

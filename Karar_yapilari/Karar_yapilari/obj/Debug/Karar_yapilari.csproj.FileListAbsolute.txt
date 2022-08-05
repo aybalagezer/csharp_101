@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\bin\Debug\Karar_yapilari.exe.config
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\bin\Debug\Karar_yapilari.exe
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\bin\Debug\Karar_yapilari.pdb
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.exe
+C:\Users\aybala\Desktop\udemy projeler\Karar_yapilari\Karar_yapilari\obj\Debug\Karar_yapilari.pdb

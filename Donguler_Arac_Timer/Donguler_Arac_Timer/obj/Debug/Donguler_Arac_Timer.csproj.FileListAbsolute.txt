@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\bin\Debug\Donguler_Arac_Timer.exe.config
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\bin\Debug\Donguler_Arac_Timer.exe
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\bin\Debug\Donguler_Arac_Timer.pdb
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.exe
+C:\Users\aybala\Desktop\udemy projeler\Donguler_Arac_Timer\Donguler_Arac_Timer\obj\Debug\Donguler_Arac_Timer.pdb

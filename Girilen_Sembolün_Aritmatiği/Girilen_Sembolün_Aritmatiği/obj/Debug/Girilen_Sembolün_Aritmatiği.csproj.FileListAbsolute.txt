@@ -1,0 +1,10 @@
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.csproj.AssemblyReference.cache
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.Form1.resources
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.Properties.Resources.resources
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.csproj.GenerateResource.cache
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.csproj.CoreCompileInputs.cache
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\bin\Debug\Girilen_Sembolün_Aritmatiği.exe.config
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\bin\Debug\Girilen_Sembolün_Aritmatiği.exe
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\bin\Debug\Girilen_Sembolün_Aritmatiği.pdb
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.exe
+C:\Users\aybala\Desktop\udemy projeler\Girilen_Sembolün_Aritmatiği\Girilen_Sembolün_Aritmatiği\obj\Debug\Girilen_Sembolün_Aritmatiği.pdb
